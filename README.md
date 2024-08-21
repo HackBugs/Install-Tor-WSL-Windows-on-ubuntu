@@ -21,3 +21,11 @@
  - Give both folder permissions  `Browser` `start-tor-browser.desktop`
  - Also give permissions inside of `browser` all files - chmod +x or chmod +777 and chown - Example like - sudo chown -R alam:alam ~/tor-browser
 ```
+> BEFORE RUN SCRIPT USE THIS CMD
+```sh
+ - echo $DISPLAY
+ - export DISPLAY=:0
+ - Now Run script - ./start-tor-browser.desktop
+```
+
+
