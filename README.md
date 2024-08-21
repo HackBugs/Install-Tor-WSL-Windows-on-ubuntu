@@ -1,6 +1,6 @@
 # install-tor-on-ubuntu
 
-## download tor file in download folder /home/user/download/
+## Download tor file inside the `Download` folder `/home/user/download/`
  - wget `URL`
  - Example - `wget https://dist.torproject.org/torbrowser/13.5.2/tor-browser-linux-x86_64-13.5.2.tar.xz`
 
